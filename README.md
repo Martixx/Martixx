@@ -53,7 +53,9 @@ A selection of my public speaking engagements at major cybersecurity and develop
 *   🎤 **Tapas & Hacks (2021):** *Videoyayadas y hackandemia en los tiempos del cocinamiento*
 *   🎤 **RootedCON (2020):** *Todo a SIEM: ofertillas en casos de uso, mamporros en broadcats y las APTs más guapas de la China (im)popular*
 *   🎤 **Tarugoconf (2020):** *Videoyayadas y hackandemia en los tiempos del cocinamiento*
-*   🎤 **We Code Fest (2020):** *Taller de resolución de ciberincidentes* & *Charla: Vacaciones en la costa del SOC*
+*   🎤 **We Code Fest (2020): - Double Feature:** 
+    *   *Taller de resolución de ciberincidentes*
+    *   *Charla: Vacaciones en la costa del SOC*
 *   🎤 **Ciber UAH Alcalá (2020): - Double Feature:** 
     *   *Los currelas del SOC*
     *   *Taller de resolución de ciberincidentes*
@@ -79,7 +81,7 @@ Drop the decrypted message in my LinkedIn DM if you want to skip the hiring line
 ### 📰 Media & Interviews
 Features, podcasts, and video interviews focusing on Blue Team operations and cybersecurity culture:
 
-*   📰 **elEconomista (2026):** *Marta López, experta en ciberseguridad: "Te pueden suplantar en una llamada o videollamada y robarte todo"* | [📄 Read Article](https://www.eleconomista.es/tecnologia/noticias/13889706/04/26/marta-lopez-experta-en-ciberseguridad-te-pueden-suplantar-una-llamada-telefonica-o-una-videollamada-y-pueden-robarte-practicamente-todo.html)
+*   📰 **elEconomista (2026):** *Marta López, experta en ciberseguridad: "Te pueden suplantar en una llamada o videollamada y robarte todo"* | [📄 Read](https://www.eleconomista.es/tecnologia/noticias/13889706/04/26/marta-lopez-experta-en-ciberseguridad-te-pueden-suplantar-una-llamada-telefonica-o-una-videollamada-y-pueden-robarte-practicamente-todo.html)
 *   🎥 **Un Podcast Seguro (2026):** Marta López. El último nivel: la realidad de una analista de ciberseguridad L3 * | [🎥 Watch](https://youtu.be/-4In-q97T7I?si=H2peqA2_KDZLwEuI)
 *   🎥 **Zenitaks (2026):** Cómo es el día a día en ciberseguridad: Marta López Pardal, filtraciones de datos y deep fakes * | [🎥 Watch](https://youtu.be/gPhx-QRIpfk?si=pv0fSlrta_4pd884)
 *   🎥 **Kombucha y vino (2024):** *Yo quiero ser hacker* | [🎥 Watch](https://youtu.be/s2SLtmzwJJQ?si=wQCEmaHIW55fmhmX)
