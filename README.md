@@ -33,7 +33,6 @@ Here are the core technologies and methodologies I work with:
 
 martixx
 
-Drop the decrypted message in my MyPublicInbox if you want to skip the hiring line!
 -->
 
 ---
