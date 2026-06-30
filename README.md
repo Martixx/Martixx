@@ -49,7 +49,7 @@ A selection of my public speaking engagements at major cybersecurity and develop
 *   🎤 **Yes We Tech / Securiters Talks (2024):** *Lo que el ransom se llevó*
 *   🎤 **El País con tu futuro (2022):** *Marta López Pardal - Ciberseguridad* | [🎥 Watch](https://youtu.be/1IIqGEXV4yA?si=AyuAIuN7cuKQKqPY)
 *   🎤 **Morcilla Conf (2021):** *Provider catacroker: repasito a los últimos castañazos a las cadenas de suministro*
-*   🎤 **Ciberliga Guardia Civil (2021):** *Qué es un SIEM, cómo funciona y casos de uso* | [🎥 Watch](https://youtu.be/xIfwCetD5FM?si=WERJeAoqlsUhNoTE)
+*   🎤 **Palabra de hacker - Ciberliga Guardia Civil (2021):** *Qué es un SIEM, cómo funciona y casos de uso* | [🎥 Watch](https://youtu.be/xIfwCetD5FM?si=WERJeAoqlsUhNoTE)
 *   🎤 **Tapas & Hacks (2021):** *Videoyayadas y hackandemia en los tiempos del cocinamiento*
 *   🎤 **RootedCON (2020):** *Todo a SIEM: ofertillas en casos de uso, mamporros en broadcats y las APTs más guapas de la China (im)popular*
 *   🎤 **Tarugoconf (2020):** *Videoyayadas y hackandemia en los tiempos del cocinamiento*
