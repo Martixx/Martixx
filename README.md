@@ -133,3 +133,24 @@ metadata:
     - SIEM / XDR Operations
 -->
 
+## 🛠️ Featured Projects 
+
+I build dumb little things that make my life easier. Some of them end up on GitHub. If something here saves you ten minutes or makes you laugh, that's a win. Also: weird stuff <!-- CTF --> and other assorted nonsense.
+
+### ♠️ [IOCs of Spades](https://github.com/Martixx/IOCsOfSpades) ♠️
+*Born to scan. Live to win.*
+
+A Python CLI for investigating IPs, domains, and hashes in bulk with VirusTotal, passive DNS, and OSINT. It caches results and lets you resume long runs, because your API quota has better things to do than answer the same question twice.
+
+### 🖤 [MasterOfParser](https://github.com/Martixx/MasterOfParser) 🖤
+*Parse loud. Pivot hard.*
+
+Turn firewall logs and QRadar exports into CIM-style CSVs, pivot on the traffic, and cross-check IPs against results from IOCs of Spades. Start with raw events. End with something you can actually investigate.
+
+### 🚨 [SOC-linguo](https://github.com/Martixx/SOC-linguo) 🚨
+*Que el inglés no sea el incidente.*
+
+Practise the English you need on shift: explain what the logs show, say what you **don't** know yet, and recommend what to do next. Grammar and natural English built around SOC scenarios.
+
+🎮 **[Play online](https://martixx.github.io/SOC-linguo/)** 🎮
+
